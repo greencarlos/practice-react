@@ -1,0 +1,10 @@
+nav {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-evenly;
+	border: 1px solid black;
+}
+
+.container {
+	text-align: center;
+}
