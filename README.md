@@ -1,14 +1,6 @@
-# Webpack pokemon classes
+# practice-react
 
-https://github.com/greencarlos/webpack-pokemon-classes
-
-https://webpack-pokemon-classes.onrender.com
-- Goes down after 5 mins with inactivity
-
-http://localhost:3000/pokemon
+http://localhost:3000/graphql
 
 nodemon index.js
-webpack --watch
-
-
-# practice-react
+webpack && webpack --watch
